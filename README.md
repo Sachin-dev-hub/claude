@@ -34,3 +34,21 @@ Your resume has **no Windows-server or data-platform (Glue/Athena/data lake) exp
 3. Repeat daily until the interview.
 
 Good luck! 🚀
+
+for the IAM
+
+1. IAM users, groups, roles and policies.
+2. Identity-based vs resource-based policies.
+3. Trust policies and cross-account access.
+4. AssumeRole and STS.
+5. IAM policy evaluation and explicit deny.
+6. EC2 IAM roles and instance profiles.
+7. EKS IAM, IRSA and Pod Identity.
+8. S3 bucket access and permission troubleshooting.
+9. IAM access keys, rotation and security.
+10. IAM Identity Center and federation.
+11. AWS Organizations and SCPs.
+12. CloudTrail and IAM Access Analyzer.
+13. Jenkins CI/CD integration with AWS IAM.
+14. Real-time production troubleshooting scenarios.
+15. Practical AWS CLI commands.
